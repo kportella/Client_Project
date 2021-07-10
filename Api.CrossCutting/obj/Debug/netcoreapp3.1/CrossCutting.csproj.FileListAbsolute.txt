@@ -1,0 +1,8 @@
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb

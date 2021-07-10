@@ -1,0 +1,8 @@
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Projeto\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
